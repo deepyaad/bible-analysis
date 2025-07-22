@@ -1,0 +1,58 @@
+relationship,familial,immediate,sex
+Creator,False,False,neutral
+creation,False,False,neutral
+husband,True,True,male
+wife,True,True,female
+father,True,True,male
+son,True,True,male
+mother,True,True,female
+brother,True,True,male
+killer,False,False,neutral
+killed by,False,False,neutral
+daughter,True,True,female
+sister,True,True,female
+descendant,True,False,neutral
+ancestor,True,False,neutral
+ally,False,False,neutral
+original heir,False,False,neutral
+original inheritor,False,False,neutral
+lady,False,False,female
+servant,False,False,neutral
+concubinator,False,False,neutral
+concubine,False,False,neutral
+half-brother,True,True,male
+half-sister,True,True,female
+king,False,False,male
+army commander,False,False,neutral
+master,False,False,neutral
+raper,False,False,neutral
+victim,False,False,neutral
+grandfather,True,False,male
+granddaughter,True,False,female
+brother-in-law,True,False,male
+sister-in-law,True,False,female
+army captain,False,False,neutral
+chief,False,False,neutral
+lieutenant,False,False,neutral
+mother-in-law,True,False,female
+daughter-in-law,True,False,female
+grandson,True,False,male
+uncle,True,False,male
+nephew,True,False,male
+father-in-law,True,False,male
+son-in-law,True,False,male
+officer,False,False,neutral
+aunt,True,False,female
+exiled,False,False,neutral
+exiled by,False,False,neutral
+cousin,True,False,neutral
+chief official,False,False,neutral
+bearer,False,False,neutral
+born by,True,True,male
+rabbi,False,False,neutral
+disciple,False,False,neutral
+apostle,False,False,neutral
+patron,False,False,neutral
+client,False,False,neutral
+chamberlain,False,False,neutral
+grandmother,True,False,female
